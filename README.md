@@ -1,1 +1,3 @@
-# shubham
+# maven-project
+
+Simple Maven Project
